@@ -1,0 +1,6 @@
+{
+  "name": "AI Expert in 30 Days",
+  "description": "High-converting landing page for the AI Expert in 30 Days practical AI skills, digital business & income-ready training program.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
